@@ -1,4 +1,4 @@
-<p align="left">Hi, I’m KiranMouli
+<p align="left">Hi, I’m KiranMouli.
 I'm open to discussions and collaboration on web development projects. Let's build something amazing together.</p>
 
 <p  align="left">- 👀 I’m interested in Web Development.</p>
